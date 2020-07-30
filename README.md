@@ -3,3 +3,7 @@
 
 # Requirements
 no requirements (enjoy ;)
+
+
+# NOTE!
+Sorry for the low quality code (I was just starting to learn python back then)
